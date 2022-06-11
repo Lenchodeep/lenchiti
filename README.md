@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lenchiti
+- 👋 Hi, I’m @lencho
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ I’m looking to collaborate on What ever releted with my proffession
